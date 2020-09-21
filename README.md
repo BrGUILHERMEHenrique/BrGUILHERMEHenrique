@@ -1,4 +1,11 @@
-# Hey Olá!
+# Guilherme Henrique 
+
+## Programar é minha paixão, cada dia melhorando
+
+Hey meu nome Seja bem vind@ sou um estudante de desenvolvimento web Full stack, em breve um Dev Ops!
+
+Minhas stacks Front end são: javaScript, React, html, css;
+Back End são: Java, nodeJs;
 
 
 <!--
