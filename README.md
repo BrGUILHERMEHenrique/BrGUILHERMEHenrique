@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=BrGUILHERMEHenrique&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=BrGUILHERMEHenrique&label=Profile%20views&color=0e75b6&style=flat"
     alt="BrGUILHERMEHenrique" /> 
   </p>
 
@@ -13,7 +13,7 @@
 
 - 🌱 Atualmente trabalho como desenvolvedor Delphi e java
 
-- 📫 Entre em contato me mandando um e-mail **guilhermehenriquersouza17@gmail.com**
+- 📫 Entre em contato me enviando um e-mail **guilhermehenriquersouza17@gmail.com**
 
 
 <br>
@@ -67,7 +67,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=BrGUILHERMEHenrique&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="BrGUILHERMEHenrique" 
